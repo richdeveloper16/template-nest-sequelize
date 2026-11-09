@@ -1,0 +1,8 @@
+.agents/
+.claude/
+.windsurf/
+dist/
+coverage/
+logs/
+node_modules/
+package-lock.json
